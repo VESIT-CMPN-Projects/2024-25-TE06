@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "key": "deforestation",
+    "name": "Deforestation"
+  },
+  {
+    "id": 2,
+    "key": "conservation",
+    "name": "Conservation"
+  },
+  {
+    "id": 3,
+    "key": "sustainable_logging",
+    "name": "Sustainable Logging"
+  },
+  {
+    "id": 4,
+    "key": "land_development",
+    "name": "Land Development"
+  },
+  {
+    "id": 5,
+    "key": "reforestation",
+    "name": "Reforestation"
+  },
+  {
+    "id": 6,
+    "key": "environmental_assessment",
+    "name": "Environmental Assessment"
+  }
+]

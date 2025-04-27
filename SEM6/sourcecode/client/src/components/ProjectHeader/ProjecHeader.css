@@ -1,0 +1,54 @@
+.projectheader-container {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 2.5rem;
+  margin-right: 2rem;
+}
+
+.nav-links {
+  display: flex;
+  gap: 2rem;
+}
+
+.nav-link {
+  color: var(--dark-purple) !important;
+  font-family: Outfit !important;
+  font-size: 1.5rem !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  line-height: normal !important;
+  text-decoration: none !important;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: var(--purple);
+}
+
+.nav-icons {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.icon {
+  width: 1.23613rem;
+  height: 1.28231rem;
+  color: #718ebf;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.icon:hover {
+  color: #4e4e8f;
+}
+
+.profile-image {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 2px solid #eaeaea;
+}

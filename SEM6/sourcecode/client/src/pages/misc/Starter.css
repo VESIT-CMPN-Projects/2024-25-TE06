@@ -1,0 +1,241 @@
+.starter-container {
+  padding-inline: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: left;
+  height: fit-content;
+}
+
+.project-starter-card {
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 500px;
+  text-align: center;
+}
+
+.project-title {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.project-card p {
+  font-size: 1rem;
+  color: #555;
+  margin: 0.5rem 0;
+}
+
+.navigation-buttons {
+  margin-top: 2rem;
+}
+
+.navigation-buttons a {
+  display: inline-block;
+  margin: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  border-radius: 5px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.manage-link {
+  background-color: #007bff;
+}
+
+.manage-link:hover {
+  background-color: #0056b3;
+}
+
+.upload-link {
+  background-color: #28a745;
+}
+
+.upload-link:hover {
+  background-color: #218838;
+}
+
+.analysis-link {
+  background-color: #17a2b8;
+}
+
+.analysis-link:hover {
+  background-color: #117a8b;
+}
+
+.uploaded-images-section {
+  margin-top: 2rem;
+}
+
+.uploaded-images-section h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 1rem;
+}
+
+.image-card {
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.image-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* images display section */
+.gallery-container {
+  padding: 2rem;
+}
+
+.image-stack {
+  display: flex;
+  align-items: center;
+}
+
+.image-wrapper {
+  width: 64px;
+  height: 64px;
+  border: 2px solid white;
+  border-radius: 8px;
+  overflow: hidden;
+  position: relative;
+  transition: all 0.3s ease;
+  margin-left: -16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.image-wrapper:first-child {
+  margin-left: 0;
+}
+
+.image-wrapper:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  z-index: 10;
+}
+
+.image-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.overflow-count {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Arial, sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  border-radius: 6px;
+}
+
+.add-button {
+  width: 64px;
+  height: 64px;
+  border: 2px dashed #ccc;
+  background: #f5f5f5;
+  border-radius: 8px;
+  margin-left: 16px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+}
+
+.add-button:hover {
+  background: #eee;
+  transform: translateY(-8px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.plus-icon {
+  width: 32px;
+  height: 32px;
+  position: relative;
+}
+
+.plus-icon::before,
+.plus-icon::after {
+  content: "";
+  position: absolute;
+  background: #666;
+}
+
+.plus-icon::before {
+  width: 32px;
+  height: 2px;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+}
+
+.plus-icon::after {
+  width: 2px;
+  height: 32px;
+  left: 50%;
+  top: 0;
+  transform: translateX(-50%);
+}
+
+.starter-container .report-title {
+  font-size: 3rem;
+  font-weight: 800;
+  color: var(--dark-green);
+}
+
+.starter-container .info-map-wrapper {
+  margin: 0 !important;
+}
+
+.project-actions {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1.5rem;
+  padding: 1rem;
+  font-family: Outfit;
+  background-color: whitesmoke;
+  border-radius: 25px;
+}
+
+.actions-title {
+  font-family: inherit;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.project-actions-container {
+  display: flex;
+  gap: 1rem;
+  overflow-x: auto;
+}
+
+.project-action {
+  padding-block: 1rem;
+}
+
+.project-action button {
+  background-color: var(--light-green);
+  font-size: 1.25rem;
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  border-radius: 25px;
+  text-wrap: nowrap;
+}

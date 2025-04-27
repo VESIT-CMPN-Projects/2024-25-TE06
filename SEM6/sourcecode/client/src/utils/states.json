@@ -1,0 +1,850 @@
+[
+    {
+        "id": "1",
+        "name": "Andaman and Nicobar Islands",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Port Blair Municipal Council"
+            },
+            {
+                "id": "1",
+                "name": "Andaman Public Works Department (APWD)"
+            },
+            {
+                "id": "2",
+                "name": "District Administration, Nicobar"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Andhra Pradesh",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Greater Visakhapatnam Municipal Corporation (GVMC)"
+            },
+            {
+                "id": "1",
+                "name": "Vijayawada Municipal Corporation (VMC)"
+            },
+            {
+                "id": "2",
+                "name": "Guntur Municipal Corporation (GMC)"
+            },
+            {
+                "id": "3",
+                "name": "Tirupati Municipal Corporation (TMC)"
+            },
+            {
+                "id": "4",
+                "name": "Andhra Pradesh Capital Region Development Authority (APCRDA)"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Arunachal Pradesh",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Itanagar Municipal Council"
+            },
+            {
+                "id": "1",
+                "name": "Department of Urban Development and Housing"
+            },
+            {
+                "id": "2",
+                "name": "Pasighat Municipal Council"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Assam",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Guwahati Municipal Corporation (GMC)"
+            },
+            {
+                "id": "1",
+                "name": "Silchar Municipal Board"
+            },
+            {
+                "id": "2",
+                "name": "Assam Urban Infrastructure Investment Program (AUIIP)"
+            },
+            {
+                "id": "3",
+                "name": "Dibrugarh Municipal Board"
+            },
+            {
+                "id": "4",
+                "name": "Assam State Housing Board"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Bihar",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Patna Municipal Corporation (PMC)"
+            },
+            {
+                "id": "1",
+                "name": "Gaya Municipal Corporation"
+            },
+            {
+                "id": "2",
+                "name": "Bihar Urban Infrastructure Development Corporation (BUIDCO)"
+            },
+            {
+                "id": "3",
+                "name": "Muzaffarpur Municipal Corporation"
+            },
+            {
+                "id": "4",
+                "name": "Bhagalpur Municipal Corporation"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Chandigarh",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Municipal Corporation Chandigarh (MCC)"
+            },
+            {
+                "id": "1",
+                "name": "Chandigarh Housing Board"
+            },
+            {
+                "id": "2",
+                "name": "Chandigarh Urban Planning Department"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "name": "Chhattisgarh",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Raipur Municipal Corporation (RMC)"
+            },
+            {
+                "id": "1",
+                "name": "Bilaspur Municipal Corporation"
+            },
+            {
+                "id": "2",
+                "name": "Chhattisgarh Urban Development Department"
+            },
+            {
+                "id": "3",
+                "name": "Durg Municipal Corporation"
+            },
+            {
+                "id": "4",
+                "name": "Korba Municipal Corporation"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "name": "Dadra and Nagar Haveli and Daman and Diu",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Daman Municipal Council"
+            },
+            {
+                "id": "1",
+                "name": "Diu Municipal Council"
+            },
+            {
+                "id": "2",
+                "name": "Silvassa Municipal Council"
+            },
+            {
+                "id": "3",
+                "name": "Department of Urban Development, DNH & DD"
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "name": "Delhi",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Municipal Corporation of Delhi (MCD)"
+            },
+            {
+                "id": "1",
+                "name": "New Delhi Municipal Council (NDMC)"
+            },
+            {
+                "id": "2",
+                "name": "Delhi Development Authority (DDA)"
+            },
+            {
+                "id": "3",
+                "name": "Delhi Jal Board"
+            },
+            {
+                "id": "4",
+                "name": "Delhi Urban Shelter Improvement Board (DUSIB)"
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "name": "Goa",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Corporation of the City of Panaji (CCP)"
+            },
+            {
+                "id": "1",
+                "name": "Margao Municipal Council"
+            },
+            {
+                "id": "2",
+                "name": "Goa State Urban Development Agency (GSUDA)"
+            },
+            {
+                "id": "3",
+                "name": "Mapusa Municipal Council"
+            },
+            {
+                "id": "4",
+                "name": "Mormugao Municipal Council"
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "name": "Gujarat",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Ahmedabad Municipal Corporation (AMC)"
+            },
+            {
+                "id": "1",
+                "name": "Surat Municipal Corporation (SMC)"
+            },
+            {
+                "id": "2",
+                "name": "Vadodara Municipal Corporation (VMC)"
+            },
+            {
+                "id": "3",
+                "name": "Rajkot Municipal Corporation (RMC)"
+            },
+            {
+                "id": "4",
+                "name": "Bhavnagar Municipal Corporation"
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "name": "Haryana",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Gurugram Municipal Corporation"
+            },
+            {
+                "id": "1",
+                "name": "Faridabad Municipal Corporation"
+            },
+            {
+                "id": "2",
+                "name": "Panipat Municipal Corporation"
+            },
+            {
+                "id": "3",
+                "name": "Ambala Municipal Corporation"
+            },
+            {
+                "id": "4",
+                "name": "Karnal Municipal Corporation"
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "name": "Himachal Pradesh",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Shimla Municipal Corporation"
+            },
+            {
+                "id": "1",
+                "name": "Dharamshala Municipal Corporation"
+            },
+            {
+                "id": "2",
+                "name": "Solan Municipal Council"
+            },
+            {
+                "id": "3",
+                "name": "Mandi Municipal Council"
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "name": "Jammu and Kashmir",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Srinagar Municipal Corporation"
+            },
+            {
+                "id": "1",
+                "name": "Jammu Municipal Corporation"
+            },
+            {
+                "id": "2",
+                "name": "Anantnag Municipal Council"
+            },
+            {
+                "id": "3",
+                "name": "Baramulla Municipal Council"
+            }
+        ]
+    },
+    {
+        "id": "15",
+        "name": "Jharkhand",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Ranchi Municipal Corporation (RMC)"
+            },
+            {
+                "id": "1",
+                "name": "Dhanbad Municipal Corporation"
+            },
+            {
+                "id": "2",
+                "name": "Jamshedpur Notified Area Committee (JNAC)"
+            },
+            {
+                "id": "3",
+                "name": "Bokaro Steel City Municipal Corporation"
+            }
+        ]
+    },
+    {
+        "id": "16",
+        "name": "Karnataka",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Bruhat Bengaluru Mahanagara Palike (BBMP)"
+            },
+            {
+                "id": "1",
+                "name": "Mysuru City Corporation"
+            },
+            {
+                "id": "2",
+                "name": "Mangaluru City Corporation"
+            },
+            {
+                "id": "3",
+                "name": "Hubballi-Dharwad Municipal Corporation"
+            },
+            {
+                "id": "4",
+                "name": "Belagavi City Corporation"
+            }
+        ]
+    },
+    {
+        "id": "17",
+        "name": "Kerala",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Thiruvananthapuram Municipal Corporation"
+            },
+            {
+                "id": "1",
+                "name": "Kochi Municipal Corporation"
+            },
+            {
+                "id": "2",
+                "name": "Kozhikode Municipal Corporation"
+            },
+            {
+                "id": "3",
+                "name": "Thrissur Municipal Corporation"
+            },
+            {
+                "id": "4",
+                "name": "Kannur Municipal Corporation"
+            }
+        ]
+    },
+    {
+        "id": "18",
+        "name": "Ladakh",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Leh Municipal Committee"
+            },
+            {
+                "id": "1",
+                "name": "Kargil Municipal Committee"
+            }
+        ]
+    },
+    {
+        "id": "19",
+        "name": "Lakshadweep",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Kavaratti Village (Municipal) Committee"
+            },
+            {
+                "id": "1",
+                "name": "Andrott Village Committee"
+            }
+        ]
+    },
+    {
+        "id": "20",
+        "name": "Madhya Pradesh",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Bhopal Municipal Corporation (BMC)"
+            },
+            {
+                "id": "1",
+                "name": "Indore Municipal Corporation (IMC)"
+            },
+            {
+                "id": "2",
+                "name": "Gwalior Municipal Corporation (GMC)"
+            },
+            {
+                "id": "3",
+                "name": "Jabalpur Municipal Corporation (JMC)"
+            },
+            {
+                "id": "4",
+                "name": "Ujjain Municipal Corporation (UMC)"
+            },
+            {
+                "id": "5",
+                "name": "Sagar Municipal Corporation"
+            },
+            {
+                "id": "6",
+                "name": "Rewa Municipal Corporation"
+            }
+        ]
+    },
+    {
+        "id": "21",
+        "name": "Maharashtra",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Brihanmumbai Municipal Corporation (BMC)"
+            },
+            {
+                "id": "1",
+                "name": "Thane Municipal Corporation (TMC)"
+            },
+            {
+                "id": "2",
+                "name": "Pune Municipal Corporation (PMC)"
+            },
+            {
+                "id": "3",
+                "name": "Nagpur Municipal Corporation (NMC)"
+            },
+            {
+                "id": "4",
+                "name": "Nashik Municipal Corporation (NMC)"
+            },
+            {
+                "id": "5",
+                "name": "Aurangabad Municipal Corporation (AMC)"
+            },
+            {
+                "id": "6",
+                "name": "Vasai-Virar Municipal Corporation (VVMC)"
+            },
+            {
+                "id": "7",
+                "name": "Kalyan-Dombivli Municipal Corporation (KDMC)"
+            },
+            {
+                "id": "8",
+                "name": "Mira-Bhayandar Municipal Corporation (MBMC)"
+            },
+            {
+                "id": "9",
+                "name": "Solapur Municipal Corporation (SMC)"
+            },
+            {
+                "id": "10",
+                "name": "Amravati Municipal Corporation (AMC)"
+            },
+            {
+                "id": "11",
+                "name": "Malegaon Municipal Corporation (MMC)"
+            },
+            {
+                "id": "12",
+                "name": "Sangli-Miraj-Kupwad Municipal Corporation (SMKMC)"
+            },
+            {
+                "id": "13",
+                "name": "Akola Municipal Corporation (AMC)"
+            },
+            {
+                "id": "14",
+                "name": "Chandrapur Municipal Corporation (CMC)"
+            },
+            {
+                "id": "15",
+                "name": "Jalgaon Municipal Corporation (JMC)"
+            },
+            {
+                "id": "16",
+                "name": "Latur Municipal Corporation (LMC)"
+            },
+            {
+                "id": "17",
+                "name": "Panvel Municipal Corporation (PMC)"
+            },
+            {
+                "id": "18",
+                "name": "Dhule Municipal Corporation (DMC)"
+            },
+            {
+                "id": "19",
+                "name": "Navi Mumbai Municipal Corporation (NMMC)"
+            }
+        ]
+    },
+    {
+        "id": "22",
+        "name": "Manipur",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Imphal Municipal Corporation"
+            },
+            {
+                "id": "1",
+                "name": "Thoubal Municipal Council"
+            },
+            {
+                "id": "2",
+                "name": "Kakching Municipal Council"
+            }
+        ]
+    },
+    {
+        "id": "23",
+        "name": "Meghalaya",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Shillong Municipal Board"
+            },
+            {
+                "id": "1",
+                "name": "Tura Municipal Board"
+            }
+        ]
+    },
+    {
+        "id": "24",
+        "name": "Mizoram",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Aizawl Municipal Corporation"
+            },
+            {
+                "id": "1",
+                "name": "Lunglei Municipal Council"
+            }
+        ]
+    },
+    {
+        "id": "25",
+        "name": "Nagaland",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Kohima Municipal Council"
+            },
+            {
+                "id": "1",
+                "name": "Dimapur Municipal Council"
+            },
+            {
+                "id": "2",
+                "name": "Mokokchung Municipal Council"
+            }
+        ]
+    },
+    {
+        "id": "26",
+        "name": "Odisha",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Bhubaneswar Municipal Corporation (BMC)"
+            },
+            {
+                "id": "1",
+                "name": "Cuttack Municipal Corporation (CMC)"
+            },
+            {
+                "id": "2",
+                "name": "Berhampur Municipal Corporation"
+            },
+            {
+                "id": "3",
+                "name": "Rourkela Municipal Corporation"
+            }
+        ]
+    },
+    {
+        "id": "27",
+        "name": "Puducherry",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Puducherry Municipality"
+            },
+            {
+                "id": "1",
+                "name": "Oulgaret Municipality"
+            },
+            {
+                "id": "2",
+                "name": "Karaikal Municipality"
+            }
+        ]
+    },
+    {
+        "id": "28",
+        "name": "Punjab",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Ludhiana Municipal Corporation"
+            },
+            {
+                "id": "1",
+                "name": "Amritsar Municipal Corporation"
+            },
+            {
+                "id": "2",
+                "name": "Jalandhar Municipal Corporation"
+            },
+            {
+                "id": "3",
+                "name": "Patiala Municipal Corporation"
+            }
+        ]
+    },
+    {
+        "id": "29",
+        "name": "Rajasthan",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Jaipur Municipal Corporation"
+            },
+            {
+                "id": "1",
+                "name": "Jodhpur Municipal Corporation"
+            },
+            {
+                "id": "2",
+                "name": "Udaipur Municipal Corporation"
+            },
+            {
+                "id": "3",
+                "name": "Kota Municipal Corporation"
+            },
+            {
+                "id": "4",
+                "name": "Bikaner Municipal Corporation"
+            }
+        ]
+    },
+    {
+        "id": "30",
+        "name": "Sikkim",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Gangtok Municipal Corporation"
+            },
+            {
+                "id": "1",
+                "name": "Namchi Municipal Council"
+            }
+        ]
+    },
+    {
+        "id": "31",
+        "name": "Tamil Nadu",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Greater Chennai Corporation"
+            },
+            {
+                "id": "1",
+                "name": "Coimbatore Municipal Corporation"
+            },
+            {
+                "id": "2",
+                "name": "Madurai Municipal Corporation"
+            },
+            {
+                "id": "3",
+                "name": "Tiruchirappalli Municipal Corporation"
+            },
+            {
+                "id": "4",
+                "name": "Salem Municipal Corporation"
+            }
+        ]
+    },
+    {
+        "id": "32",
+        "name": "Telangana",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Greater Hyderabad Municipal Corporation (GHMC)"
+            },
+            {
+                "id": "1",
+                "name": "Warangal Municipal Corporation"
+            },
+            {
+                "id": "2",
+                "name": "Karimnagar Municipal Corporation"
+            },
+            {
+                "id": "3",
+                "name": "Nizamabad Municipal Corporation"
+            }
+        ]
+    },
+    {
+        "id": "33",
+        "name": "Tripura",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Agartala Municipal Corporation"
+            }
+        ]
+    },
+    {
+        "id": "34",
+        "name": "Uttar Pradesh",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Lucknow Municipal Corporation"
+            },
+            {
+                "id": "1",
+                "name": "Kanpur Municipal Corporation"
+            },
+            {
+                "id": "2",
+                "name": "Agra Municipal Corporation"
+            },
+            {
+                "id": "3",
+                "name": "Varanasi Municipal Corporation"
+            },
+            {
+                "id": "4",
+                "name": "Allahabad Municipal Corporation"
+            }
+        ]
+    },
+    {
+        "id": "35",
+        "name": "Uttarakhand",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Dehradun Municipal Corporation"
+            },
+            {
+                "id": "1",
+                "name": "Haridwar Municipal Corporation"
+            },
+            {
+                "id": "2",
+                "name": "Haldwani-Kathgodam Municipal Corporation"
+            },
+            {
+                "id": "3",
+                "name": "Rudrapur Municipal Corporation"
+            }
+        ]
+    },
+    {
+        "id": "36",
+        "name": "West Bengal",
+        "GoverningBodies": [
+            {
+                "id": "0",
+                "name": "Kolkata Municipal Corporation"
+            },
+            {
+                "id": "1",
+                "name": "Howrah Municipal Corporation"
+            },
+            {
+                "id": "2",
+                "name": "Asansol Municipal Corporation"
+            },
+            {
+                "id": "3",
+                "name": "Siliguri Municipal Corporation"
+            },
+            {
+                "id": "4",
+                "name": "Durgapur Municipal Corporation"
+            }
+        ]
+    }
+]

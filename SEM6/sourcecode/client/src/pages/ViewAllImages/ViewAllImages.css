@@ -1,0 +1,8 @@
+.table-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* This prevents warping and crops to fill */
+  object-position: center; /* This centers the image */
+  display: block;
+  max-width: 200px;
+}

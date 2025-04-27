@@ -1,0 +1,123 @@
+@import url("../../variable.css");
+
+.MainSideBarContainer {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  padding-top: 1.5rem;
+}
+
+.BrandContainer {
+  width: 100%;
+  display: flex;
+  gap: 0.6rem;
+  justify-content: center;
+
+  img {
+    width: 3.40338rem;
+    height: 1.78644rem;
+  }
+
+  h1 {
+    cursor: pointer;
+    width: 11.1875rem;
+    height: 1.6875rem;
+    color: #000;
+    font-family: Outfit;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+  }
+}
+
+.BottomSettingsContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: auto;
+  background: var(--gradient);
+
+  .settings-icons {
+    width: 2.48844rem;
+    height: 2.4375rem;
+    padding: 0.4rem 0;
+    color: var(--white);
+  }
+
+  h6 {
+    width: 7rem;
+    height: auto;
+    color: #fff;
+    text-align: center;
+    font-family: Outfit;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration: none;
+  }
+}
+
+.RoutesLinkContainer {
+  margin-top: 4.5rem;
+
+  a {
+    position: relative;
+    height: 3.148rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.81rem;
+    margin: 0.5rem 0;
+    text-decoration: none;
+    color: var(--grey2);
+    border-left: 0.465rem solid transparent;
+    transition: color 0.3s, border-color 0.3s;
+    border-radius: 0;
+  }
+  a:hover {
+    background-color: whitesmoke;
+  }
+
+  a.active {
+    color: black;
+    background-color: var(--light-green);
+  }
+
+  a.active::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -1vh;
+    height: 100%;
+    width: 0.465rem;
+    background-color: var(--dark-green);
+    border-radius: 0rem 0.625rem 0.625rem 0rem;
+  }
+
+  .linkIcon {
+    width: 1.92269rem;
+    height: 2rem;
+    flex-shrink: 0;
+    color: inherit;
+  }
+
+  p {
+    margin-block: auto;
+    width: 7.285rem;
+    height: 2;
+    flex-shrink: 0;
+    color: inherit;
+    font-family: Outfit;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+  }
+}
+
+.disabled-link {
+  pointer-events: none;
+  color: var(--grey2);
+  opacity: 0.5;
+}

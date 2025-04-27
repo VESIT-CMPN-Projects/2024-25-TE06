@@ -1,0 +1,14 @@
+* {
+  --white: #ffffff;
+  --light-green: hsl(104, 96%, 73%);
+  --highlight-green: rgba(155, 252, 120, 0.212);
+  --white-blue: #ddffd1;
+  --dark-green: #007a05;
+  --purple: #5b59f4;
+  --grey1: #828ea1;
+  --grey2: #65727b;
+  --dark-purple: #343c6a;
+  --darkest-purple: #2824f2;
+  --blue: #0075ff;
+  --gradient: linear-gradient(90deg, #7a78e6 0%, #14118c 100%);
+}

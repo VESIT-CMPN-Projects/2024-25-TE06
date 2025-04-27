@@ -1,0 +1,41 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.background-image {
+  background-image: url("../../assets/background_image.png");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  position: relative;
+}
+
+.overlay-content {
+  position: absolute;
+  top: 50%;
+  left: 50px;
+  transform: translateY(-50%);
+  color: white;
+  z-index: 1;
+}
+
+.welcome-text {
+  font-size: 2.5rem;
+  font-weight: normal;
+  margin-bottom: 0;
+  text-align: start;
+}
+
+.mapmyforest-text {
+  font-size: 4rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  text-align: start;
+}
+
+.description-text {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+}

@@ -1,0 +1,38 @@
+.section-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;  
+    margin: 0 auto;  
+    padding: 20px;  
+  }
+  
+  .section-container.reverse {
+    flex-direction: row-reverse;
+  }
+  
+  .content {
+    max-width: 50%;  
+  }
+  
+  .title {
+    font-size: 2rem;  
+    font-weight: 700; 
+    margin-bottom: 10px;
+  }
+  
+  .description {
+    font-size: 1.2rem; 
+    font-weight: 600;  
+    margin-bottom: 20px;
+  }
+  
+  .image-container {
+    max-width: 40%; 
+  }
+  
+  .image {
+    width: 100%;
+    height: auto;
+  }
+  
